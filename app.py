@@ -2,6 +2,7 @@ import mypackage
 
 print(dir(mypackage))
 
+mypackage.modul121.metode21()
 
 """
 Untuk bisa import dan akses modul 
